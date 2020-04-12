@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Intuitive Indian`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Petchi Prakash`,
+      summary: `from AVADI. An UPSC aspirant, Software developer, Video editor and Meme Creator.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://petchi-prakash.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `petchiprakash3`,
+      facebook: `petchi.ps.5`,
     },
   },
   plugins: [
@@ -33,7 +34,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 400,
             },
           },
           {
