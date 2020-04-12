@@ -5,7 +5,7 @@ module.exports = {
       name: `Petchi Prakash`,
       summary: `from AVADI. An UPSC aspirant, Software developer, Video editor and Meme Creator.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `My personal blog.`,
     siteUrl: `https://petchi-prakash.netlify.com/`,
     social: {
       twitter: `petchiprakash3`,
